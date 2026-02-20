@@ -87,5 +87,5 @@ Right click → Open with Live Server
 Make sure URL looks like:
 
 http://127.0.0.1:5500/index.html
-💬 Example Chat Queries
+
 
